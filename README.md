@@ -1,5 +1,8 @@
 # Projeto_Formacao_Machine_Learning
 
+Caso queria executar esse notebook no seu computador, se o sistema operacional for windows, apenas execute o arquivo **StartJupyter** 
+e espere uma aba abrir no seu navegador.Caso seja de distribuição Linux, rode o comando ```jupyer-notebook``` no diretório local de download deste projeto no seu computador.
+
 ## Situação problema
 
 Você foi contratado por uma empresa a explorar informações sobre o ENEM e verificar a possibilidade de oferecer bolsas de estudos para os alunos e alunas que tiram as melhores notas, mesmo que não façam todas as provas. Será possível prever as melhores notas ou os melhores alunos sem que eles façam todas as provas?
